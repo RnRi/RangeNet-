@@ -40,4 +40,3 @@ First you need to install the nvidia driver and CUDA, so have fun!
   activate pyqt4_env
   conda install -c conda-forge pyqt=5*
   ```
-# RangeNet-
